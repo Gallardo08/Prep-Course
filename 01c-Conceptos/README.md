@@ -43,7 +43,7 @@ Cuando *pegamos* una expression en la consola de Firefox o de Chrome, vamos a po
 
 ```js
 // hace algo
-if (condicion) {
+if (sdf) {
   // código ejecutado si es true
 } else {
   // código ejecutado si es false
